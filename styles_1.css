@@ -20,7 +20,7 @@
 	text-align: right;
 }
 
-h2 {
+.h2 {
     text-align: center;
 }
 
@@ -44,4 +44,19 @@ td {
 .h2 {
 	text-align: center;
 	width: 300px;
+}
+
+/*35*/
+.tablen {
+	width: 500px;
+    height: 300px;
+}
+
+.td_1{
+	font-weight: bold;
+    text-align: center;
+}
+
+.th_7{
+	font-weight: normal;
 }
