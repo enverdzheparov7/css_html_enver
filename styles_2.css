@@ -13,3 +13,21 @@
 	text-indent: 50px;
 	
 }
+
+.p4 {
+	text-indent: 50px;
+	text-align: justify;
+	width: 400px;
+}
+.p5 {
+	text-decoration: underline;
+}
+.p6 {
+	text-decoration: overline;
+    color: red;
+}
+
+.p7 {
+	text-decoration: line-through;
+    color: green;
+}
