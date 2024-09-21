@@ -60,11 +60,11 @@ td {
 .th_7{
 	font-weight: normal;
 }
-
+/*36*/
 h2 {
 	font-style: italic;
 }
-
+/*37*/
 .p_9 { 
 	font-size: 30px;
 }
@@ -78,7 +78,7 @@ h2 {
 	font-size: 40px;
     font-weight: normal;
 }
-
+/*38*/
 .h1_2 {
 	font-family: Arial Black;
 }
@@ -90,8 +90,15 @@ h2 {
 h3{
     font-family: 'Times New Roman';
 }
-
+/*39*/
 .p6 {
+    width: 500px;
 	font-size: 30px;
     line-height: 45px;
+}
+/*40*/
+.p7 {
+    width: 500px;
+	font-size: 30px;
+    line-height: 1.5;
 }
