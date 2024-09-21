@@ -60,3 +60,38 @@ td {
 .th_7{
 	font-weight: normal;
 }
+
+h2 {
+	font-style: italic;
+}
+
+.p_9 { 
+	font-size: 30px;
+}
+
+.h1_8 {
+	font-size: 50px;
+    text-align: center;
+}
+
+.h2_8 {
+	font-size: 40px;
+    font-weight: normal;
+}
+
+.h1_2 {
+	font-family: Arial Black;
+}
+
+h2 {
+	font-family: Georgia;
+}
+
+h3{
+    font-family: 'Times New Roman';
+}
+
+.p6 {
+	font-size: 30px;
+    line-height: 45px;
+}
