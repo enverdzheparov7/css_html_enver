@@ -31,3 +31,46 @@
 	text-decoration: line-through;
     color: green;
 }
+a {
+	text-decoration: none;
+    color:red;
+}
+
+
+.h1_3 {
+    width: 500px;
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    text-decoration: none;
+}
+.h2_1 {
+    width: 500px;
+    text-align: center;
+    color: green;
+    font-weight: normal;
+    font-size: 30px;
+}
+.p8 {
+    width: 500px;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 25px;
+    font-family: Arial;
+    text-indent: 40px;
+    color:black;
+}
+ul {
+    width: 500px;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 20px;
+    color:black;
+}
+i {
+    color: green;
+}
+li{
+    width: 400px;
+    color: black;
+}
