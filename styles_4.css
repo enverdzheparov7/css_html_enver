@@ -73,4 +73,19 @@ p .bbb1 {
 #elem3{
 	color:blue;
 }
+#block{
+	font-size: 30px;
+}
+.text{
+	font-style: italic;
+}
 
+/* 66 */
+#elem h2{
+	color:chocolate;
+}
+
+#elem .text{
+	color:chocolate;
+	font-weight: bold;
+}
