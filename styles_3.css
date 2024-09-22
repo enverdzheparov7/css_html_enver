@@ -31,3 +31,19 @@ p i{
 p b i{
     color:red;
 }
+
+/* 54 */
+li > b{
+    color:red;
+}
+/* 55 */
+.odd{
+    color:red;
+}
+.eve{
+    color:green;
+}
+
+.eee{
+    color:red;
+}
