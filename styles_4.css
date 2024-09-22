@@ -89,3 +89,26 @@ p .bbb1 {
 	color:chocolate;
 	font-weight: bold;
 }
+
+/* 67 */
+.eee.zzz.ccc{
+	color:chocolate;
+}
+
+/* 68 */
+.bbb.zzz {
+    font-size: 50px;
+}
+h2.bbb.zzz {
+	color: chartreuse;
+}
+#elem11.bbb {
+	color: cyan;
+}
+#elem11.bbb.zzz {
+	color: chocolate;
+}
+h2#elem11.bbb { 
+	color: green;
+}
+
