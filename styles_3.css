@@ -47,6 +47,17 @@ li > b{
 .eee{
     color:red;
 }
+/* 56 */
 .xxx{
 font-size: 30px;
+}
+/* 57 */
+.div1, .div_1,.div_3{
+color:red;
+}
+.div2, .div_2,.div_4{
+color:green;
+}
+.div3{
+color:blue
 }
