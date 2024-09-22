@@ -89,3 +89,15 @@ color:blue
     text-align: center;
 	font-family: Arial;
 }
+/* 59 */
+h2.header{
+    font-size: 40px;
+}
+h3.header{
+    font-size: 30px;
+}
+
+/* 60 */
+.eee3 i{
+    color: red;
+}
