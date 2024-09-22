@@ -145,3 +145,18 @@ h2 .zzz7 {
 #elem12 .bbb {
 	color: red;
 }
+/* 70 */
+#block1 h1, #block1 h2  {
+	text-align: center;
+}
+
+#block2 h1, #block2 h2 {
+	text-align: center;
+}
+
+#block2 h1{
+	font-size: 30px;
+}
+#block2 h2 {
+	font-size: 20px;
+}
