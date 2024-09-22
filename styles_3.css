@@ -61,3 +61,31 @@ color:green;
 .div3{
 color:blue
 }
+
+/* 58 */
+.eee1 {
+	font-size: 20px;
+}
+.zzz {
+	font-size: 30px;
+}
+.eee1,.zzz{
+    line-height: 1.5;
+	font-family: Arial;
+}
+
+.eee2 {
+	font-size: 20px;
+}
+.zzz1 {
+	font-size: 30px;
+	
+}
+.ggg {
+	font-size: 35px;
+}
+
+.eee2,.zzz1,.ggg {
+    text-align: center;
+	font-family: Arial;
+}
