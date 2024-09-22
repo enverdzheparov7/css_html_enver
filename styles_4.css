@@ -112,3 +112,36 @@ h2#elem11.bbb {
 	color: green;
 }
 
+/* 69 */
+
+h2.zzz7 {
+	color: red;
+}
+h2 .zzz7 {
+	color: red;
+}
+.bbb7.zzz7 {
+	color: red;
+}
+.bbb .zzz {
+	color: red;
+}
+.bbb7.zzz7.xxx7 {
+	color: red;
+}
+
+.bbb .zzz.xxx {
+	color: red;
+}
+.bbb7.zzz7 .xxx7 {
+	color: red;
+}
+.bbb .zzz .xxx {
+	color: red;
+}
+#elem12.bbb {
+	color: red;
+}
+#elem12 .bbb {
+	color: red;
+}
