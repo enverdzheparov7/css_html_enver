@@ -39,3 +39,27 @@ p .bbb1 {
 .eee1 p .bbb2 {
 	color: green;
 }
+/* 63 */
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+
+/* 63 2 */
+.size{
+    font-size: 100px;
+}
+.color{
+    color:purple;
+}
+.font{
+    font:bold;
+}
