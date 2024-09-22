@@ -24,3 +24,18 @@
 	color: red;
     font-size: 20px; /* для проверки что код работает верно*/
 }
+/* 62.1 */
+p.bbb1 {
+	color: red;
+}
+p .bbb1 {
+	color: blue;
+}
+
+.eee1 p.bbb2 {
+	color: burlywood;
+}
+
+.eee1 p .bbb2 {
+	color: green;
+}
