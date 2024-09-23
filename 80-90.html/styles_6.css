@@ -36,3 +36,33 @@ a:hover {
     color:red;
 	text-decoration: underline;
 }
+
+#test a.a {
+	color: red;
+}
+#test a:hover {
+	text-decoration: none;
+}
+
+/* 86 */
+
+a.zzz {
+	color: red;
+}
+a.zzz:hover {
+	text-decoration: none;
+}
+
+#block1 a.zzz {
+	color: red;
+}
+#block1 a.zzz:hover {
+	text-decoration: none;
+}
+
+.block a.zzz {
+	color: red;
+}
+.block a.zzz:hover {
+	text-decoration: none;
+}
