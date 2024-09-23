@@ -95,3 +95,21 @@ p.fff2{
 .fff3 h2.bbb10{
     color:red;
 }
+
+/* 73 */
+<h2>text</h2>
+.h2_1 {
+	font-size: 20px;
+}
+.h2_1 {
+	font-size: 30px;
+}
+/* 74 */
+.h2_2 {
+	font-size: 20px;
+	color: blue;
+}
+.h2_2 {
+	font-style: italic;
+	color: red;
+}
