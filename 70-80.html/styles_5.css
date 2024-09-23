@@ -127,3 +127,36 @@ p.fff2{
 main * p{
     color: green;
 }
+/* 80 */
+[title]{
+color:blue;
+}
+
+p[title]{
+font-size:25px ;
+color:red;
+}
+
+p[title='hello']{ 
+    text-decoration: overline;
+}
+
+a[href^='http://']{
+ text-decoration: none;
+}
+
+a[href$='.html']{
+  color:chocolate;
+}
+
+p[title*='hello']{
+  font-style: italic;
+  font-size: 30px;
+  color:brown;
+}
+
+p[class^='top-']{
+   font-family: 'Arial Narrow Bold'  ;
+   color:blueviolet;
+}
+
