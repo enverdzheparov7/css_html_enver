@@ -29,7 +29,34 @@
 }
 
 
-
 .eee h2.zzz, .xxx {
 	text-align: center;
+}
+/* 72 */
+.div p{
+    color:red;
+}
+.div1 h2{
+    color:red;
+}
+#block7 p{
+    color:red;
+}
+#block1 h2{
+    color:red;
+}
+
+.bbb{
+    color:red;
+}
+#block2 .bbb1{
+    color:red;
+}
+
+p.bbb11{
+   color:red;
+}
+
+h2.bbb3{
+    color:red;
 }
