@@ -60,3 +60,38 @@ p.bbb11{
 h2.bbb3{
     color:red;
 }
+
+#block4 p.bbb4{
+    color:red;
+}
+
+.xxx5, .bbb5{
+    color:red;
+}
+
+p.bbb6,h2.xxx6{
+    color:red;
+}
+
+#block5 p.bbb8, #block5 p.xxx8{
+     color: red;
+}
+.fff{
+    color:red;
+}
+
+.fff1 p{
+    color:red;
+}
+
+p.fff2{
+    color:red;
+}
+
+.fff4 .bbb9{
+    color:red;
+}
+
+.fff3 h2.bbb10{
+    color:red;
+}
