@@ -113,3 +113,17 @@ p.fff2{
 	font-style: italic;
 	color: red;
 }
+#elem7 + li {
+    color:red;
+}
+.elem7 + li{
+    color:red;
+}
+
+#elem100 ~ li{
+    color:red;
+}
+
+main * p{
+    color: green;
+}
