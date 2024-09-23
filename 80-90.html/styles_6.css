@@ -1,0 +1,38 @@
+/* 81 */
+
+a:link {
+	color: red;
+}
+a:visited {
+	color: green;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	color: blue;
+}
+/* 82 */
+a:link {
+	color: blue;
+}
+a:visited {
+	color: green;
+}
+a:hover {
+    color:red;
+	text-decoration: none;
+}
+a:active {
+	color: black;
+}
+
+/* 84 */
+a {
+	color: blue;
+    text-decoration: none ;
+}
+a:hover {
+    color:red;
+	text-decoration: underline;
+}
