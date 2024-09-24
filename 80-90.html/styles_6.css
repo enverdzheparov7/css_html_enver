@@ -66,3 +66,87 @@ a.zzz:hover {
 .block a.zzz:hover {
 	text-decoration: none;
 }
+
+/* 87 */
+.class4 li:first-child {
+	color: red;
+}
+
+.class5 li:last-child {
+	color: green;
+}
+
+.class6 li:first-child {
+	color: red;
+}
+
+.class6 li:last-child {
+	color: green;
+}
+
+.class7 li:nth-child(3) {
+	color: red;
+}
+
+.class8 li:nth-child(2n+1) {
+	color: red;
+}
+.class8 li:nth-child(2n) {
+	color: green;
+}
+
+.class9 li:nth-child(3n) {
+	color: red;
+}
+.class0 li:nth-last-child(2) {
+	color: red;
+}
+.class10 li:only-child {
+	color: red;
+}
+.class11 li:empty {
+	border: 1px solid blue;
+	list-style-type: circle;
+	color: blue;
+	width: 100px;
+}
+
+/* 88 */
+h2:first-of-type {
+	color: red;
+}
+
+h2:last-of-type {
+	color: red;
+}
+
+h3:nth-of-type(2) {
+	color: red;
+}
+h3:nth-last-of-type(2) {
+	color: red;
+}
+
+div {
+	border: 1px dashed black;
+	padding: 15px;
+	margin-bottom: 10px;
+}
+h2:only-of-type {
+	color: red;
+}
+
+/* 89 */
+
+.class1 li:not(.elem){
+  color:red;
+}
+
+.class2 li:not(:first-child){
+    color:red;
+  }
+
+.class3 li:not(:first-child, :last-child){
+    color:red;
+  }
+
