@@ -105,8 +105,22 @@
 }
 
 #elem13 {
-	width: 300px;
-	height: 300px;
-	border: 1px solid green;
+	width: 200px;
+	height: 200px;
+	border: 1px solid rgb(15, 201, 15);
 	border-radius: 10px;
+}
+
+#elem14 {
+	border-radius: 20px;
+	width: 200px;
+	height: 200px;
+	background-color: #7fe0ab;
+}
+
+#elem15 {
+	width: 150px;
+	height: 150px;
+	border-radius: 75px;
+	border: 1px solid green;
 }
