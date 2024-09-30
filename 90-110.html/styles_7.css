@@ -45,3 +45,43 @@
 	width: 300px;
 	height: 200px;
 }
+
+#elem6 {
+	border-width: 5px;
+	border-style: double;
+	border-color: blue;
+	width: 300px;
+	height: 200px;
+}
+
+#elem7 {
+	border-width: 1px;
+	border-style: solid;
+	border-color: red;
+	width: 300px;
+	height: 200px;
+}
+
+#elem8 {
+	border-width: 3px;
+	border-style: dotted;
+	border-color: blue;
+	width: 300px;
+	height: 200px;
+}
+
+#elem9 {
+	border-width: 3px;
+	border-style: dashed;
+	border-color: green;
+	width: 300px;
+	height: 200px;
+}
+
+#elem10 {
+	border-width: 5px;
+	border-style: double;
+	border-color: orange;
+	width: 300px;
+	height: 200px;
+}
