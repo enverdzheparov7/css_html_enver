@@ -124,3 +124,10 @@
 	border-radius: 75px;
 	border: 1px solid green;
 }
+
+#elem16 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid hsl(120, 100%, 25%);
+	border-radius: 10px 30px 40px 50px;
+}
