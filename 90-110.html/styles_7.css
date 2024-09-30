@@ -1,0 +1,15 @@
+#elem {
+	width: 250px;
+	height: 250px;
+	color: white;
+	background-color:blueviolet; /* задаем оранжевый цвет фона */
+}
+
+#elem1 {
+	width: 300px;
+	height: 200px;
+	color: white;
+    text-align: center;
+    font-size: 25px;
+	background-color:#4dee99; /* задаем оранжевый цвет фона */
+}
