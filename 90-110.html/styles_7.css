@@ -167,3 +167,11 @@
 	height: 900px;
 	border: 3px solid black;
 }
+
+#elem22 {
+	background-image: url("bg.png");
+	background-repeat: repeat-x;
+	width: 1500px;
+	height: 600px;
+	border: 3px solid black;
+}
