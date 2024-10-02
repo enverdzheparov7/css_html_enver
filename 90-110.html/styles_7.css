@@ -175,3 +175,71 @@
 	height: 600px;
 	border: 3px solid black;
 }
+
+
+#elem23 {
+	background-position: center 30px;
+	background-image: url("bg.png");
+	background-repeat: no-repeat;
+	width: 400px;
+	height: 300px;
+	border: 1px solid black;
+}
+
+.elem {
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-image: url("bg.png");
+	border: 1px solid black;
+	margin-bottom: 20px;
+}
+
+#elem24 {
+	width: 600px;
+	height: 500px;
+}
+
+#elem25 {
+	width: 500px;
+	height: 600px;
+}
+
+#elem26 {
+	width: 400px;
+	height: 400px;
+}
+
+#elem27 {
+	width: 300px;
+	height: 400px;
+}
+
+#elem28 {
+	width: 200px;
+	height: 400px;
+}
+
+#elem29 {
+	width: 300px;
+	height: 100px;
+}
+
+#elem30 {
+	background-clip: content-box;
+	
+	
+	border: 10px dashed black;
+	background-color: orange;
+	padding: 30px;
+	width: 250px;
+	height: 150px;
+}
+
+#elem31 {
+	background-repeat: repeat;
+	background-image: url("bg.png");
+	border: 10px dashed black;
+	padding: 30px;
+	width: 350px;
+	height: 300px;
+}
