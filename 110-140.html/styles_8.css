@@ -158,3 +158,41 @@
 	border: 1px solid red;
 	text-align: justify;
 }
+
+#elem7 {
+	padding-top:    35px; /* сверху */
+	padding-right:  20px; /* справа */
+	padding-bottom: 60px; /* снизу */
+	padding-left:   20px; /* слева */
+	
+	width: 200px;
+	border: 1px solid red;
+	text-align: justify;
+}
+
+#elem8 {
+	padding-top:    20px; /* сверху */
+	padding-right:  20px; /* справа */
+	padding-bottom: 50px; /* снизу */
+	padding-left:   50px; /* слева */
+	
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+}
+
+#elem9 {
+	padding: 60px 30px; 
+	
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+}
+
+#elem10 {
+	padding: 10px 10px 30px; 
+	
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+}
