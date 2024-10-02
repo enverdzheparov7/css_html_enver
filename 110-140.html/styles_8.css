@@ -9,3 +9,85 @@
 #ul2 {
 	list-style-type: none;
 }
+
+#parent {
+	width: 300px;
+	border: 1px dashed blue;
+}
+
+#child {
+	height: 200px;
+	border: 1px solid yellow;
+	margin: 30px;
+}
+
+
+#elem1 {
+    width: 400px;
+    border: 1px dashed blue;
+}
+
+
+#elem2 {
+    margin: 25px;
+    border: 1px dashed green;
+}
+
+#elem3 {
+    height: 200px;
+    margin: 25px;
+    border: 1px solid red;
+}
+
+#parent2 {
+	width: 150px;
+	border: 1px solid red;
+}
+#child2 {
+	margin-top:    30px; /* сверху */
+	margin-right:  30px; /* справа */
+	margin-bottom: 70px; /* снизу */
+	margin-left:   30px; /* слева */
+	
+	height: 100px;
+	border: 1px solid green;
+}
+
+#parent3 {
+	width: 200px;
+	border: 1px solid red;
+}
+#child3 {
+	margin-top:    50px; /* сверху */
+	margin-right:  20px; /* справа */
+	margin-bottom: 50px; /* снизу */
+	margin-left:   20px; /* слева */
+	
+	height: 100px;
+    border: 1px solid green;
+}
+
+
+#parent4 {
+	width: 200px;
+	border: 1px solid red;
+}
+#child4 {
+	margin-top:    20px; /* сверху */
+	margin-right:  50px; /* справа */
+	margin-bottom: 20px; /* снизу */
+	margin-left:   50px; /* слева */
+	
+	height: 100px;
+	border: 1px solid green;
+}
+
+#parent5 {
+	width: 200px;
+	border: 1px solid yellow;
+}
+#child5 {
+	height: 60px;
+	border: 1px dashed blue;
+	margin: 20px 40px 80px 10px;
+}
