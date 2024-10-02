@@ -136,3 +136,25 @@
 }
 
 
+#elem4 {
+	padding: 40px;
+	width: 200px;
+	border: 1px solid red;
+	text-align: justify;
+}
+
+#elem5 {
+	padding: 20px;
+	width: 500px;
+	border: 1px solid green;
+    margin-bottom: 50px;
+}
+
+
+#elem6 {
+	padding: 10px;
+	width: 300px;
+    margin-left: 40px;
+	border: 1px solid red;
+	text-align: justify;
+}
