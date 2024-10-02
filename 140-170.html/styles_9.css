@@ -62,3 +62,12 @@ span {
     border: 1px solid green;
     margin: 10px auto;
 }
+
+.parent {
+	text-align: center;
+	padding: 10px 0;
+	border: 1px solid red;
+}
+.child {
+	border: 1px solid green;
+}
