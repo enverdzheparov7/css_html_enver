@@ -71,3 +71,12 @@ span {
 .child {
 	border: 1px solid green;
 }
+
+.parent1 {
+	text-align: right;
+	padding: 10px 0;
+	border: 1px solid red;
+}
+.tir {
+	border: 1px solid green;
+}
