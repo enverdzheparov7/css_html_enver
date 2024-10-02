@@ -80,3 +80,16 @@ span {
 .tir {
 	border: 1px solid green;
 }
+.parent2 {
+	padding: 10px 0;
+	border: 1px solid red;
+	height: 150px;
+	width: 500px;
+	text-align: center;
+}
+.child2 {
+	display: inline-block;
+	margin: 5px auto;
+	padding: 10px;
+	border: 1px solid green;
+}
