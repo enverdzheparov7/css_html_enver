@@ -74,7 +74,7 @@ span {
 
 .parent1 {
 	text-align: right;
-	padding: 10px 0;
+	padding-right: 10px;
 	border: 1px solid red;
 }
 .tir {
@@ -91,5 +91,34 @@ span {
 	display: inline-block;
 	margin: 5px auto;
 	padding: 10px;
+	border: 1px solid green;
+}
+
+.parent3 {
+	width: 400px;
+	height: 130px;
+	text-align: right;
+	padding-right: 10px; 
+	border: 1px solid red;
+}
+.child3 {
+	display: inline-block;
+	padding: 10px 20px;
+	margin-right: 20px;
+	border: 1px solid green;
+}
+
+
+.parent4 {
+	width: 400px;
+	height: 130px;
+	text-align: right;
+	padding-right: 10px; 
+	border: 1px solid red;
+}
+.child4 {
+	text-align: center;
+	display: inline-block;
+	padding: 10px 20px;
 	border: 1px solid green;
 }
