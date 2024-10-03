@@ -39,3 +39,17 @@
 	height: 50px;
 	border: 1px solid green;
 }
+
+.parent4 {
+	display: flex;
+	justify-content: center;
+    border: 1px solid red;
+    height: 300px;
+    width: 900px;
+}
+
+.child4 {
+	width: 100px;
+	height: 50px;
+	border: 1px solid green;
+}
