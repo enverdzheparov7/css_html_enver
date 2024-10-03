@@ -53,3 +53,17 @@
 	height: 50px;
 	border: 1px solid green;
 }
+
+.parent5 {
+	display: flex;
+	justify-content: space-between;
+    border: 1px solid red;
+    height: 200px;
+    width: 900px;
+}
+
+.child5 {
+	width: 100px;
+	height: 50px;
+	border: 1px solid green;
+}
