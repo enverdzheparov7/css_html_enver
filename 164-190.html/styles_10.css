@@ -7,3 +7,24 @@
 	height: 50px;
 	border: 1px solid green;
 }
+
+.parent1	{
+	display: inline-flex;
+	border: 1px solid red;
+}
+.child1 {
+	width: 50px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+.parent2	{
+	display: inline-flex;
+	padding: 10px;
+	border: 1px solid red;
+}
+.child2 {
+	width: 50px;
+	height: 50px;
+	border: 1px solid green;
+}
