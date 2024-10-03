@@ -339,3 +339,29 @@
 .h1_3{
     margin-top: 400px;
 }
+
+#parent100 {
+    position: relative;
+    width: 300px;
+    height: 200px;
+    margin: 0 auto;
+    border: 1px solid green;
+}
+#a {
+    position: absolute;
+    left: -50px;
+    top:0px;
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+}
+
+
+#b {
+	position: absolute;
+    right: -50px;
+    top:0px;
+    width: 30px;
+    height: 30px;
+    border: 1px solid red;
+}
