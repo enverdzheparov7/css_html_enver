@@ -674,9 +674,39 @@
 	padding: 10px;
 	border: 2px solid #696989;
 	width: 600px;
-	height: 200px;
+	height: 250px;
 }
 #parent002 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
+
+#parent003 {
+	display: grid;
+	row-gap: 10px;
+	column-gap: 10px;
+	grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+	padding: 10px;
+	border: 2px solid #696989;
+	width: 600px;
+	height: 250px;
+}
+#parent003 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
+
+#parent004 {
+	display: grid;
+	row-gap: 5%;
+	column-gap: 10px;
+	grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+	padding: 10px;
+	border: 2px solid #696989;
+	width: 600px;
+	height: 250px;
+}
+#parent004 > div {
 	padding: 10px;
 	border: 1px solid #696989;
 }
