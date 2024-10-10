@@ -253,3 +253,73 @@
 	padding: 10px;
 	border: 1px solid #696989;
 }
+
+.parent1 {
+	display: grid;
+	grid-template: 1fr 2fr / 1fr 2fr 2fr 4fr ;
+	border: 2px solid #696989;
+	padding: 10px;
+	width: 600px;
+	height: 200px;
+}
+.parent1 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
+
+
+.parent2 {
+	display: grid;
+	grid-template: 1fr 2fr /  2fr 1fr 1fr 2fr;
+	border: 2px solid #696989;
+	padding: 10px;
+	width: 600px;
+	height: 200px;
+}
+.parent2 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
+
+
+.parent3 {
+	display: grid;
+	grid-template: 1fr 1fr 2fr 4fr / 1fr 2fr 3fr ;
+	border: 2px solid #696989;
+	padding: 10px;
+	width: 600px;
+	height: 350px;
+}
+.parent3 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
+
+
+
+.parent4 {
+	display: grid;
+	grid-template: 4fr 2fr 2fr / 2fr 1fr 2fr 1fr ;
+	border: 2px solid #696989;
+	padding: 10px;
+	width: 600px;
+	height: 350px;
+}
+.parent4 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
+
+
+.parent5 {
+	display: grid;
+	grid-template: 2fr 1fr / 1fr 1fr 2fr 4fr 4fr ;
+	border: 2px solid #696989;
+	padding: 10px;
+	width: 600px;
+	height: 350px;
+}
+.parent5 > div {
+	padding: 10px;
+	border: 1px solid #696989;
+}
