@@ -53,3 +53,177 @@
 	
 	background-color: #16785C;
 }
+
+
+#wrapper {
+    width: 700px;
+    text-align: justify;
+    border: 1px solid black;
+}
+#menu3 {
+    display: flex;
+    margin-bottom: 20px;
+    background-color: #484848ab;
+}
+
+
+#menu3 a:hover, #menu3 a.active {
+    color: #48484849;
+    background-color: #fff;
+}
+
+#menu3 a {
+    padding: 10px 25px;
+    text-decoration: none;
+    color: #fff;
+    font: bold 14px Arial;
+}
+#change a {
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#change h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#change p{
+	padding: 0 10px;
+}
+
+
+#wrapper1 {
+    width: 700px;
+    text-align: justify;
+   
+}
+#menu4 {
+    display: flex;
+    margin-bottom: 20px;
+    background-color: #fc9b00dc;
+}
+
+
+#menu4 a:hover, #menu4 a.active {
+    color: #7c5009dc;
+    background-color: #fff;
+}
+
+#menu4 a {
+    padding: 10px 25px;
+    text-decoration: none;
+    color: #fff;
+    font: bold 14px Arial;
+}
+#change1 a {
+    color: #744d10d0;
+    text-decoration:underline;
+    font-weight: bold;
+}
+
+#change1 h1 {
+    text-align: center;
+    margin-bottom: 10px;
+	color: #774409ab;
+	font: 30px "Times New Roman";
+}
+#change1 h2 {
+    text-align: center;
+    margin-bottom: 10px;
+	color: #7a4405dc;
+	font: 30px "Times New Roman";
+	
+}
+#change1 p{
+	padding: 0 10px;
+	color: #976008e0;
+	font: 17px/35px "Times New Roman";
+	text-align: justify;
+	text-indent: 50px;
+}
+
+
+#containter {
+    margin-bottom: 20px;
+	border-left: 1px ridge  #976008e0;
+    border-right: 1px ridge #976008e0;
+    border-bottom: 1px ridge #976008e0;
+}
+
+#ch {
+    display: flex;
+    justify-content: center;
+    font: 13px Arial;
+}
+#ch a {
+	color: #976008e0;
+	margin: 0 10px;
+    font: 13px Arial;
+}
+#ch a:hover {
+	color: black;
+	text-decoration: none;
+}
+
+#change1 a:hover {
+	color: black;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+#wrapper2 {
+    width: 700px;
+    text-align: justify;
+   
+}
+
+
+#wrapper2 a:hover, #wrapper2 a.active {
+    color: blue;
+    background-color: #fff;
+}
+
+#wrapper2 a {
+   
+    text-decoration: none;
+    color: blue;
+    font: bold 14px Arial;
+}
+
+#wrapper2 a:hover{
+   text-decoration: underline;
+}
+
+#wrapper2 h1 {
+    text-align: center;
+    margin-bottom: 10px;
+	font: bold 30px "Times New Roman";
+}
+#wrapper2 h2 a {
+    text-align: center;
+	color: blue;
+	font: bold 30px "Times New Roman";
+	
+}
+#wrapper2 p{
+	
+	font: 16px "Times New Roman";
+	text-align: justify;
+}
+
+#wrapper2 p.more{
+	text-align: right;
+}
+#wrapper2 div{
+	margin-bottom: 20px;
+    border: 1px solid #707070;
+    padding: 20px;
+}
